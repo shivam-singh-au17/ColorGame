@@ -2,7 +2,8 @@
 
 
 
-![Logo](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/logo.jpg?raw=true)
+<!-- ![Logo](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/logo.jpg?raw=true) -->
+<img src ="https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/logo.jpg?raw=true"  width="100%" />
 
 # About The Project
 
