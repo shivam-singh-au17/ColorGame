@@ -2,7 +2,7 @@
 
 
 
-![Logo](https://github.com/shivam-singh-au17/Color_Generator/blob/master/Images/javascript-random-color-generator.jpg?raw=true)
+![Logo](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/logo.jpg?raw=true)
 
 # About The Project
 
@@ -37,13 +37,22 @@ Go Live
 # Some screenshots of my project
 
 #### 1. The look of the *HOME SECTION* of my website.
-![Screenshot (243)](https://github.com/shivam-singh-au17/Color_Generator/blob/master/Images/Screenshot%20(243).png?raw=true)
+![Screenshot (261)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(261).png?raw=true)
 
 #### 2. The look of the *ABOUT SECTION* of my website.
-![Screenshot (244)](https://github.com/shivam-singh-au17/Color_Generator/blob/master/Images/Screenshot%20(244).png?raw=true)
+![Screenshot (262)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(262).png?raw=true)
+
+![Screenshot (263)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(263).png?raw=true)
 
 #### 3. The look of the *Location SECTION* of my website.
-![Screenshot (245)](https://github.com/shivam-singh-au17/Color_Generator/blob/master/Images/Screenshot%20(245).png?raw=true)
+![Screenshot (264)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(264).png?raw=true)
+
+![Screenshot (265)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(265).png?raw=true)
+
+#### 4. The look of the *Location SECTION* of my website.
+![Screenshot (266)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(266).png?raw=true)
+
+![Screenshot (267)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(267).png?raw=true)
 
 ***So this was the project I have created with my efforts. I have added the screenshots for my audience to understand easily.***
 
