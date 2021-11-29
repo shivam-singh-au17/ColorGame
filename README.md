@@ -7,7 +7,7 @@
 
 # About The Project
 
-### This is a personal project which I had to make on a theme so I decided to make it on the Shravasti district, Shravasti is a district of Uttar Pradesh that is known for the temples of Gautam Buddha and also known for its natural environment. I have completed my diploma from here for 3 years and I love this place so I have tried to make a small website on it so that people can know about it and my purpose for making this project is only my personal thinking and desire to improve my technical skills.
+### This is a kind of entertaining website where you can see whether you are able to write the letter of your name in the given time interval or not. In this game, where you move the mouse, the box will bright and it will be extinguished again after some time, then within that time you are able to write the word of your name or not, you can play this type of game here.
 
 # Technologies I Used
 
