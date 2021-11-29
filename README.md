@@ -12,7 +12,6 @@
 # Technologies I Used
 
 - I used  [HTML-5](https://www.w3schools.com/html/) and [CSS-3](https://www.w3schools.com/css/default.asp) for designing and layout.
-- And also used  [JavaScript](https://www.w3schools.com/javascript/) for designing and layout.
 
 # Tools I Used
 
@@ -24,7 +23,7 @@
 
 ### First you clone or download this project from here.
 ```
-git clone https://github.com/shivam-singh-au17/Color_Generator.git
+git clone https://github.com/shivam-singh-au17/ColorGame.git
 ```
 ### You have to open this file in VS-code and go to index.html file and open it by the live server, your VS-code must have live-server installed. 
 ```
@@ -32,25 +31,23 @@ Go Live
 ```
 
 
-## If you want to see my project click this URL => https://shivam-singh-au17.github.io/Color_Generator/
+## If you want to see my project click this URL => https://shivam-singh-au17.github.io/ColorGame/
 
 
 # Some screenshots of my project
 
-#### 1. The look of the *HOME SECTION* of my website.
+### This is the first view of my color game website.
 ![Screenshot (261)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(261).png?raw=true)
 
-#### 2. The look of the *ABOUT SECTION* of my website.
+### In this game, where you move the mouse, the box will bright and it will be extinguished again after some time, then within that time you are able to write the word of your name or not, you can play this type of game here.
 ![Screenshot (262)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(262).png?raw=true)
 
 ![Screenshot (263)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(263).png?raw=true)
 
-#### 3. The look of the *Location SECTION* of my website.
 ![Screenshot (264)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(264).png?raw=true)
 
 ![Screenshot (265)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(265).png?raw=true)
 
-#### 4. The look of the *Location SECTION* of my website.
 ![Screenshot (266)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(266).png?raw=true)
 
 ![Screenshot (267)](https://github.com/shivam-singh-au17/ColorGame/blob/master/IMAGES/Screenshot%20(267).png?raw=true)
