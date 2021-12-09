@@ -9,11 +9,11 @@
 
 ### This is a kind of entertaining website where you can see whether you are able to write the letter of your name in the given time interval or not. In this game, where you move the mouse, the box will bright and it will be extinguished again after some time, then within that time you are able to write the word of your name or not, you can play this type of game here.
 
-# Technologies I Used
+# Technologies Used
 
 - I used  [HTML-5](https://www.w3schools.com/html/) and [CSS-3](https://www.w3schools.com/css/default.asp) for designing and layout.
 
-# Tools I Used
+# Tools Used
 
 -  [VS Code](https://code.visualstudio.com/download) to write code.
 -  [Github](https://github.com/shivam-singh-au17) for functionality.
